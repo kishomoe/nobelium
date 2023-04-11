@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Kishomoe',
-  author: 'Danshuiyu,
+  author: 'Danshuiyu',
   email: 'kishomoe@kisho.moe',
   link: 'https://kisho.moe',
   description: 'Truth Forever!',
